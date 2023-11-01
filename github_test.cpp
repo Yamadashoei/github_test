@@ -5,11 +5,17 @@
 
 int main()
 {
-    std::cout << "Hello Github!\n";
+    std::cout << "Hello Github!\n\n";
 
-    std::cout << "LC1C_27_ヤマダ_ショウエイ\n";
+    std::cout << "LC1C_27_ヤマダ_ショウエイ\n\n";
 
-    std::cout << "2023/10/11\n";
+    std::cout << "player作成\n\n";
+
+    std::cout << "マージしてください\n\n";
+
+    std::cout << "マージします!!!!!!!!\n\n";
+
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
