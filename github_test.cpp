@@ -17,6 +17,10 @@ int main()
 
     std::cout << "プルせずに作業!\n\n";
 
+    std::cout << "Hello GitHub World\n\n";
+
+    std::cout << "Clone changed\n\n";
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
